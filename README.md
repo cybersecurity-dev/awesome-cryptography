@@ -14,6 +14,8 @@
 ### [Asymmetric](https://www.ibm.com/think/topics/asymmetric-encryption) [Encryption](https://en.wikipedia.org/wiki/Public-key_cryptography)
 
 ### [Symmetric](https://www.ibm.com/think/topics/symmetric-encryption) [Encryption](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
+- [Block](https://en.wikipedia.org/wiki/Block_cipher) Ciphers
+- [Stream](https://en.wikipedia.org/wiki/Stream_cipher) Ciphers
 
 ## 
 
