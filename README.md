@@ -19,7 +19,9 @@
 
 
 ### [Asymmetric](https://www.ibm.com/think/topics/asymmetric-encryption) [Encryption](https://en.wikipedia.org/wiki/Public-key_cryptography)
-
+<p align="center">
+  <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/public_key_encryption.svg" />
+</p>
 
 ### [Symmetric](https://www.ibm.com/think/topics/symmetric-encryption) [Encryption](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
 <p align="center">
