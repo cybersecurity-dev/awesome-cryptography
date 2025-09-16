@@ -17,9 +17,15 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+
 ### [Asymmetric](https://www.ibm.com/think/topics/asymmetric-encryption) [Encryption](https://en.wikipedia.org/wiki/Public-key_cryptography)
 
+
 ### [Symmetric](https://www.ibm.com/think/topics/symmetric-encryption) [Encryption](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
+<p align="center">
+  <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/symmetric_encryption.svg" />
+</p>
+
 - [Block](https://en.wikipedia.org/wiki/Block_cipher) Ciphers
 - [Stream](https://en.wikipedia.org/wiki/Stream_cipher) Ciphers
 
