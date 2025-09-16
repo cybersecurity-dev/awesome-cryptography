@@ -11,25 +11,31 @@
 </p>
 
 ## 📖 Contents
-- [Asymmetric Encryption](#asymmetric-encryption)
-- [Symmetric Encryption](#symmetric-encryption)
+- [Asymmetric Encryption](#1-asymmetric-encryption)
+- [Symmetric Encryption](#2-symmetric-encryption)
+    - [Block Ciphers](#21-block-ciphers)
+    - [Stream Ciphers](#22-stream-ciphers)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
 
-### [Asymmetric](https://www.ibm.com/think/topics/asymmetric-encryption) [Encryption](https://en.wikipedia.org/wiki/Public-key_cryptography)
+### 1. [Asymmetric](https://www.ibm.com/think/topics/asymmetric-encryption) [Encryption](https://en.wikipedia.org/wiki/Public-key_cryptography)
 <p align="center">
   <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/public_key_encryption.svg" />
 </p>
 
-### [Symmetric](https://www.ibm.com/think/topics/symmetric-encryption) [Encryption](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
+### 2. [Symmetric](https://www.ibm.com/think/topics/symmetric-encryption) [Encryption](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
 <p align="center">
   <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/symmetric_encryption.svg" />
 </p>
 
-- [Block](https://en.wikipedia.org/wiki/Block_cipher) Ciphers
-- [Stream](https://en.wikipedia.org/wiki/Stream_cipher) Ciphers
+#### 2.1 [Block](https://en.wikipedia.org/wiki/Block_cipher) Ciphers
+<p align="center">
+  <img width="30%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/block_cipher.svg" />
+</p>
+
+#### 2.2 [Stream](https://en.wikipedia.org/wiki/Stream_cipher) Ciphers
 
 ## 
 
