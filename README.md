@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://en.wikipedia.org/wiki/Lorenz_cipher">
+      <img width="50%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/LorenzCipher.jpg" />
+    </a>
+</p>
+
 # Awesome [Cryptography](https://en.wikipedia.org/wiki/Cryptography) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/cryptography/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVdyUOqhzwYChtTg6KDFDWy&si=ekK8NEQftLSlZZNL)
