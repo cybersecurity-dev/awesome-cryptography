@@ -43,7 +43,17 @@
 
 #### 2.2 [Stream](https://en.wikipedia.org/wiki/Stream_cipher) Ciphers
 
-## 
+
+### 3. [Homomorphic](https://en.wikipedia.org/wiki/Homomorphic_encryption) [Encryption](https://github.com/microsoft/SEAL)
+
+#### 3.1 [Fully](https://research.ibm.com/topics/fully-homomorphic-encryption) [Homomorphic](https://chain.link/education-hub/homomorphic-encryption) Encryption ([FHE](https://github.com/google/fully-homomorphic-encryption))
+
+#### 3.2 Partially [Homomorphic](https://www.splunk.com/en_us/blog/learn/homomorphic-encryption.html) Encryption ([PHE](https://github.com/serengil/LightPHE))
+
+#### 3.3 Somewhat [Homomorphic](https://www.ibm.com/think/topics/homomorphic-encryption) Encryption (SHE)
+
+
+##
 
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
