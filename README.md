@@ -1,10 +1,13 @@
-<p align="center">
-    <a href="https://en.wikipedia.org/wiki/Lorenz_cipher">
-      <img width="50%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/LorenzCipher.jpg" />
-    </a>
-</p>
+<div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/Lorenz_cipher">
+          <img width="50%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/LorenzCipher.jpg" />
+        </a>
+    </p>
 
-# Awesome [Cryptography](https://en.wikipedia.org/wiki/Cryptography) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# **`Awesome`** [Cryptography](https://wikipedia.org/wiki/Cryptography) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVdyUOqhzwYChtTg6KDFDWy&si=ekK8NEQftLSlZZNL)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/cryptography/)
 
@@ -27,25 +30,25 @@
 - [Contributors](#contributors)
 
 
-### 1. [Asymmetric](https://www.ibm.com/think/topics/asymmetric-encryption) [Encryption](https://en.wikipedia.org/wiki/Public-key_cryptography)
+### 1. [Asymmetric](https://www.ibm.com/think/topics/asymmetric-encryption) [Encryption](https://wikipedia.org/wiki/Public-key_cryptography)
 <p align="center">
   <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/public_key_encryption.svg" />
 </p>
 
-### 2. [Symmetric](https://www.ibm.com/think/topics/symmetric-encryption) [Encryption](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
+### 2. [Symmetric](https://www.ibm.com/think/topics/symmetric-encryption) [Encryption](https://wikipedia.org/wiki/Symmetric-key_algorithm)
 <p align="center">
   <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/symmetric_encryption.svg" />
 </p>
 
-#### 2.1 [Block](https://en.wikipedia.org/wiki/Block_cipher) Ciphers
+#### 2.1 [Block](https://wikipedia.org/wiki/Block_cipher) Ciphers
 <p align="center">
   <img width="30%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/block_cipher.svg" />
 </p>
 
-#### 2.2 [Stream](https://en.wikipedia.org/wiki/Stream_cipher) Ciphers
+#### 2.2 [Stream](https://wikipedia.org/wiki/Stream_cipher) Ciphers
 
 
-### 3. [Homomorphic](https://en.wikipedia.org/wiki/Homomorphic_encryption) [Encryption](https://github.com/microsoft/SEAL)
+### 3. [Homomorphic](https://wikipedia.org/wiki/Homomorphic_encryption) [Encryption](https://github.com/microsoft/SEAL)
 
 #### 3.1 [Fully](https://research.ibm.com/topics/fully-homomorphic-encryption) [Homomorphic](https://chain.link/education-hub/homomorphic-encryption) Encryption ([FHE](https://github.com/google/fully-homomorphic-encryption))
 
